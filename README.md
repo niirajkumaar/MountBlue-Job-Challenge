@@ -1,1 +1,2 @@
-# MountBlue-Job-Challenge
+
+Simple Array Sum
