@@ -15,3 +15,5 @@
 
 
 17. Grading Students --> https://github.com/niirajkumaar/MountBlue-Job-Challenge/blob/main/Grading%20Students
+
+19. Divisible Sum Pairs --> https://github.com/niirajkumaar/MountBlue-Job-Challenge/blob/main/Divisible%20Sum%20Pairs
